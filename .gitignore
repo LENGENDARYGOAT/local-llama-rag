@@ -1,0 +1,27 @@
+# --- PRIVATE DATA (Do Not Upload) ---
+
+# Ignore the heavy database folder (The AI's brain)
+my_local_db/
+
+# Ignore your private source documents
+Documentz/*
+!Documentz/.gitkeep
+
+# --- SYSTEM TRASH (Do Not Upload) ---
+
+# Python cache files (generated automatically)
+__pycache__/
+*.pyc
+
+# Virtual Environment files (if you ever use one)
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables (API keys/secrets)
+.env
+
+# IDE settings (VS Code, Pycharm, etc.)
+.vscode/
+.idea/
